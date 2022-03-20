@@ -60,10 +60,10 @@
 	],
 	"levels": [
 		{
-			"id": "underground",
-			"title": "Underground",
-			"map": "maps/mall/mall-underground.svg",
-			"minimap": "maps/mall/mall-underground-mini.jpg",
+			"id": "floor-1-1",
+			"title": "floor-1-1",
+			"map": "maps/1-1map.svg",
+			"minimap": "maps/1-1map.jpg",
 			"locations": [
 				{
 					"id": "gap",
