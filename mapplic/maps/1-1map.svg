@@ -16,17 +16,6 @@
 		443.7,190.01 	"/>
 	<rect x="469.01" y="458.12" fill="#F19899" stroke="#283331" stroke-miterlimit="10" width="13.78" height="23.47"/>
 </g>
-<g id="使用可能教室">
-	<rect x="252.68" y="224.32" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="68.45"/>
-	<rect x="479.72" y="84.65" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="144.16" height="89.8"/>
-	<rect id="goukan102" x="130.57" y="113.47" fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" width="58.44" height="79.04"/>
-	<rect id="goukan101" x="130.57" y="210.67" fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" width="58.44" height="82.1"/>
-	<rect x="189.01" y="97.92" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
-	<rect x="252.68" y="97.92" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
-	<rect x="316.35" y="113.47" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
-	<polyline fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" points="581.26,254.04 691.46,254.04 691.46,419.76 
-		581.26,419.76 581.26,254.04 	"/>
-</g>
 <g id="使用不可能教室等">
 	<rect x="316.35" y="210.67" fill="#929292" stroke="#283331" stroke-miterlimit="10" width="82.31" height="56.12"/>
 	<rect x="380.03" y="113.47" fill="#929292" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
@@ -47,22 +36,6 @@
 		189.01,368.22 	"/>
 	<polyline fill="#929292" stroke="#283331" stroke-miterlimit="10" points="482.79,458.12 691.46,458.12 691.46,481.59 
 		482.79,481.59 482.79,458.12 	"/>
-</g>
-<g id="文字">
-	<text transform="matrix(1 0 0 1 482.7858 97.9156)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">110</text>
-	<text transform="matrix(1 0 0 1 304.6162 411.6412)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="15px">学生サポートセンター</text>
-	<text id="EV" transform="matrix(1 0 0 1 623.9058 171.7054)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">EV</text>
-	<text transform="matrix(1 0 0 1 583.2321 266.7931)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">120</text>
-	<text transform="matrix(1 0 0 1 113.8084 440.7731)"><tspan x="0" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="20px">A</tspan><tspan x="15.68" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="20px" letter-spacing="5">V</tspan><tspan x="35.82" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="20px">棟</tspan></text>
-	<text transform="matrix(1 0 0 1 316.3548 125.1245)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">105</text>
-	<text transform="matrix(1 0 0 1 252.6839 109.6945)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">104</text>
-	<text transform="matrix(1 0 0 1 252.6836 234.6176)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">109</text>
-	<text transform="matrix(1 0 0 1 130.5679 222.1758)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">101</text>
-	<text transform="matrix(1 0 0 1 130.5676 125.2684)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">102</text>
-	<text transform="matrix(1 0 0 1 189.0127 109.8382)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">103</text>
-	<text transform="matrix(1 0 0 1 317.7346 222.1754)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">107</text>
-	<text transform="matrix(1 0 0 1 380.2087 125.1244)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">106</text>
-	<text transform="matrix(1 0 0 1 398.4082 307)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="20px">中庭</text>
 </g>
 <g id="廊下">
 	<polygon fill="#B5B5B6" stroke="#283331" stroke-miterlimit="10" points="461.36,190.01 461.36,174.45 640.44,174.45 
@@ -224,5 +197,32 @@
 		
 			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="554.75" y1="352.49" x2="541.49" y2="352.49"/>
 	</g>
+</g>
+<g id="MLOC-available">
+	<rect id="room109" x="252.68" y="224.32" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="68.45"/>
+	<rect id="room110" x="479.72" y="84.65" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="144.16" height="89.8"/>
+	<rect id="room102" x="130.57" y="113.47" fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" width="58.44" height="79.04"/>
+	<rect id="room101" x="130.57" y="210.67" fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" width="58.44" height="82.1"/>
+	<rect id="room103" x="189.01" y="97.92" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
+	<rect id="room104" x="252.68" y="97.92" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
+	<rect id="room105" x="316.35" y="113.47" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
+	<polyline id="room120" fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" points="581.26,254.04 691.46,254.04 
+		691.46,419.76 581.26,419.76 581.26,254.04 	"/>
+</g>
+<g id="MNOINT-words">
+	<text transform="matrix(1 0 0 1 482.7858 97.9156)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">110</text>
+	<text transform="matrix(1 0 0 1 304.6162 411.6412)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="15px">学生サポートセンター</text>
+	<text id="EV" transform="matrix(1 0 0 1 623.9057 171.7054)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">EV</text>
+	<text transform="matrix(1 0 0 1 583.2321 266.7931)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">120</text>
+	<text transform="matrix(1 0 0 1 113.8084 440.7731)"><tspan x="0" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="20px">A</tspan><tspan x="15.68" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="20px" letter-spacing="5">V</tspan><tspan x="35.82" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="20px">棟</tspan></text>
+	<text transform="matrix(1 0 0 1 316.3548 125.1245)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">105</text>
+	<text transform="matrix(1 0 0 1 252.6839 109.6945)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">104</text>
+	<text transform="matrix(1 0 0 1 252.6836 234.6176)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">109</text>
+	<text transform="matrix(1 0 0 1 130.5679 222.1758)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">101</text>
+	<text transform="matrix(1 0 0 1 130.5676 125.2684)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">102</text>
+	<text transform="matrix(1 0 0 1 189.0127 109.8382)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">103</text>
+	<text transform="matrix(1 0 0 1 317.7346 222.1754)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">107</text>
+	<text transform="matrix(1 0 0 1 380.2087 125.1244)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">106</text>
+	<text transform="matrix(1 0 0 1 398.4082 307)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="20px">中庭</text>
 </g>
 </svg>
