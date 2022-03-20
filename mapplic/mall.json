@@ -70,6 +70,7 @@
 			"title": "floor-1-1",
 			"map": "maps/1-1map.svg",
 			"minimap": "maps/1-1map.jpg",
+			"show": "true",
 			"locations": [
 				{
 					"id": "room101",
@@ -87,7 +88,6 @@
 					"about": "1号館1階102",
 					"description": "小教室",
 					"category": "使用可能教室",
-					"pin":"hidden",
 					"x": "0.3000",
 					"y": "0.2500"
 				}
@@ -98,7 +98,6 @@
 			"title": "Ground Floor",
 			"map": "maps/mall/mall-ground.svg",
 			"minimap": "maps/mall/mall-ground-mini.jpg",
-			"show": "true",
 			"locations": [
 				{
 					"id": "nordstrom",
