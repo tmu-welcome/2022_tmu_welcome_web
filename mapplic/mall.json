@@ -66,23 +66,22 @@
 			"minimap": "maps/1-1map.jpg",
 			"locations": [
 				{
-					"id": "gap",
-					"title": "GAP",
-					"about": "Lorem ipsum",
-					"description": "Lorem ipsum",
-					"category": "fashion",
-					"x": "0.3781",
-					"y": "0.4296"
+					"id": "101",
+					"title": "101",
+					"about": "1号館1階101",
+					"description": "小教室",
+					"category": "使用可能教室",
+					"x": "0.3000",
+					"y": "0.4000"
 				},
 				{
-					"id": "petco",
-					"title": "Petco",
-					"about": "Lorem ipsum",
-					"description": "Lorem ipsum",
-					"category": "others",
-					"style": "dark",
-					"x": "0.5311",
-					"y": "0.2686"
+					"id": "102",
+					"title": "102",
+					"about": "1号館1階102",
+					"description": "小教室",
+					"category": "使用可能教室",
+					"x": "0.3000",
+					"y": "0.2500"
 				}
 			]
 		},
