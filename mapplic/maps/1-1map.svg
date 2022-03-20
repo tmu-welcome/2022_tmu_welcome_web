@@ -19,8 +19,8 @@
 <g id="使用可能教室">
 	<rect x="252.68" y="224.32" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="68.45"/>
 	<rect x="479.72" y="84.65" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="144.16" height="89.8"/>
-	<rect id="102" x="130.57" y="113.47" fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" width="58.44" height="79.04"/>
-	<rect id="101" x="130.57" y="210.67" fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" width="58.44" height="82.1"/>
+	<rect id="1goukan102" x="130.57" y="113.47" fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" width="58.44" height="79.04"/>
+	<rect id="1goukan101" x="130.57" y="210.67" fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" width="58.44" height="82.1"/>
 	<rect x="189.01" y="97.92" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
 	<rect x="252.68" y="97.92" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
 	<rect x="316.35" y="113.47" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
