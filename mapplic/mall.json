@@ -66,7 +66,7 @@
 			"minimap": "maps/1-1map.jpg",
 			"locations": [
 				{
-					"id": "1goukan101",
+					"id": "goukan101",
 					"title": "101",
 					"about": "1号館1階101",
 					"description": "小教室",
@@ -76,7 +76,7 @@
 					"y": "0.4000"
 				},
 				{
-					"id": "1goukan102",
+					"id": "goukan102",
 					"title": "102",
 					"about": "1号館1階102",
 					"description": "小教室",
