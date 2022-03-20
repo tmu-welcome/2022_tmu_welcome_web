@@ -71,6 +71,7 @@
 					"about": "1号館1階101",
 					"description": "小教室",
 					"category": "使用可能教室",
+					"pin": "hidden",
 					"x": "0.3000",
 					"y": "0.4000"
 				},
@@ -80,6 +81,7 @@
 					"about": "1号館1階102",
 					"description": "小教室",
 					"category": "使用可能教室",
+					"pin":"hidden",
 					"x": "0.3000",
 					"y": "0.2500"
 				}
