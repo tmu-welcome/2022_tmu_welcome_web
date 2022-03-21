@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="800px"
+	 height="600px" viewBox="0 0 800 600" enable-background="new 0 0 800 600" xml:space="preserve">
+<g id="背景">
+	<polyline id="base" fill="#DCDDDD" points="39.94,459.86 759.94,459.86 759.94,139.86 39.94,139.86 	"/>
+</g>
+<g id="使用不可能部屋">
+	<rect x="87.14" y="223.17" fill="#929292" stroke="#273331" stroke-miterlimit="10" width="103.06" height="171.7"/>
+</g>
+<g id="廊下">
+	<polygon fill="#B5B5B6" stroke="#273331" stroke-miterlimit="10" points="190.2,223.17 190.2,318.79 229.91,318.79 229.91,394.87 
+		261.14,394.87 261.14,318.79 645.87,318.79 645.87,394.87 712.74,394.87 712.74,268.38 645.87,268.38 645.87,280.75 240.63,280.75 
+		240.63,223.17 	"/>
+</g>
+<g id="男子トイレ">
+	<rect x="190.2" y="318.79" fill="#54C3F1" stroke="#283331" stroke-miterlimit="10" width="39.71" height="76.08"/>
+	<g id="男">
+		<path fill="#FFFFFF" d="M210.06,355.05c1.77,0,3.21-1.44,3.21-3.21c0-1.77-1.44-3.21-3.21-3.21c-1.77,0-3.21,1.44-3.21,3.21
+			C206.84,353.61,208.28,355.05,210.06,355.05z"/>
+		<path fill="#FFFFFF" d="M213.06,356.83h-3.01h-3.01c-0.68,0-1.31,0.34-1.69,0.91c-0.37,0.57-0.44,1.28-0.17,1.91l4.4,10.36
+			c0.08,0.19,0.26,0.31,0.47,0.31c0.2,0,0.39-0.12,0.47-0.31l4.4-10.36c0.27-0.62,0.2-1.34-0.17-1.91
+			C214.38,357.17,213.74,356.83,213.06,356.83z"/>
+	</g>
+</g>
+<g id="階段">
+	<g>
+		<polyline fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" points="229.91,340.16 261.14,340.16 
+			261.14,355.93 229.91,355.93 		"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="261.14" y1="343.04" x2="229.91" y2="343.04"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="261.14" y1="345.46" x2="229.91" y2="345.46"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="261.14" y1="348.07" x2="229.91" y2="348.07"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="261.14" y1="350.64" x2="229.91" y2="350.64"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="261.14" y1="353.18" x2="229.91" y2="353.18"/>
+		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="261.14" y1="358.8" x2="229.91" y2="358.8"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="261.14" y1="362.02" x2="229.91" y2="362.02"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="261.14" y1="364.73" x2="229.91" y2="364.73"/>
+		<line fill="none" stroke="#273331" stroke-miterlimit="10" x1="261.14" y1="394.87" x2="229.91" y2="394.87"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="261.14" y1="367.51" x2="229.91" y2="367.51"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="261.14" y1="370.79" x2="229.91" y2="370.79"/>
+		<polygon fill="#5C5A5A" points="245.53,361.34 261.14,355.22 261.14,339.96 245.53,339.96 		"/>
+		<line fill="none" stroke="#273331" stroke-miterlimit="10" x1="229.91" y1="340.16" x2="229.91" y2="394.87"/>
+		<polyline fill="none" stroke="#273331" stroke-miterlimit="10" points="245.53,362.02 245.53,339.99 245.53,373.67 		"/>
+	</g>
+	<g>
+		<polyline fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" points="645.87,326.83 684.81,326.83 
+			684.81,346.49 645.87,346.49 		"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="684.81" y1="330.42" x2="645.87" y2="330.42"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="684.81" y1="333.45" x2="645.87" y2="333.45"/>
+		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="684.81" y1="336.7" x2="645.87" y2="336.7"/>
+		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="684.81" y1="339.9" x2="645.87" y2="339.9"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="684.81" y1="343.07" x2="645.87" y2="343.07"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="684.81" y1="350.08" x2="645.87" y2="350.08"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="684.81" y1="354.08" x2="645.87" y2="354.08"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="684.81" y1="357.47" x2="645.87" y2="357.47"/>
+		<line fill="none" stroke="#273331" stroke-miterlimit="10" x1="684.81" y1="395.04" x2="645.87" y2="395.04"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="684.81" y1="360.94" x2="645.87" y2="360.94"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="684.81" y1="365.03" x2="645.87" y2="365.03"/>
+		<polygon fill="#5C5A5A" points="665.34,353.24 684.81,345.61 684.81,326.59 665.34,326.59 		"/>
+		<line fill="#B5B5B6" stroke="#273331" stroke-miterlimit="10" x1="645.87" y1="395.04" x2="645.87" y2="326.83"/>
+		<polyline fill="none" stroke="#273331" stroke-miterlimit="10" points="665.34,354.08 665.34,326.63 665.34,368.61 		"/>
+		<line fill="#B5B5B6" stroke="#273331" stroke-miterlimit="10" x1="684.81" y1="326.83" x2="684.81" y2="395.04"/>
+	</g>
+</g>
+<g id="EV">
+	<rect x="261.14" y="318.79" fill="#B5B5B6" stroke="#273331" stroke-miterlimit="10" width="32.61" height="29.57"/>
+</g>
+<g id="女子トイレ">
+	<polyline fill="#E79395" stroke="#273331" stroke-miterlimit="10" points="293.75,318.79 308.06,318.79 308.06,394.87 
+		261.14,394.87 261.14,348.36 293.75,348.36 293.75,318.79 	"/>
+	<g id="女_00000089536331199801915020000012574151406114321826_">
+		<path fill="#FFFFFF" d="M284.6,360.6c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21c-1.77,0-3.21,1.44-3.21,3.21
+			S282.83,360.6,284.6,360.6z"/>
+		<path fill="#FFFFFF" d="M289.47,373.06l-4.4-10.36c-0.08-0.19-0.26-0.31-0.47-0.31c-0.2,0-0.39,0.12-0.47,0.31l-4.4,10.36
+			c-0.27,0.62-0.2,1.34,0.17,1.91c0.37,0.57,1.01,0.91,1.69,0.91h3.01h3.01c0.68,0,1.31-0.34,1.69-0.91
+			C289.67,374.4,289.73,373.68,289.47,373.06z"/>
+	</g>
+</g>
+<g id="トイレマーク">
+</g>
+<g id="MLOC-available">
+	<rect id="room229f" x="308.06" y="204.67" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="37.54" height="76.08"/>
+	<rect id="room228f" x="345.59" y="204.67" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="37.54" height="76.08"/>
+	<rect id="room227f" x="383.13" y="204.67" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="37.54" height="76.08"/>
+	<rect id="room226f" x="420.66" y="204.67" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="37.54" height="76.08"/>
+	<rect id="room225f" x="458.2" y="204.67" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="37.54" height="76.08"/>
+	<rect id="room224f" x="495.73" y="204.67" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="37.54" height="76.08"/>
+	<rect id="room223f" x="533.27" y="204.67" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="37.54" height="76.08"/>
+	<rect id="room222f" x="570.8" y="204.67" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="37.54" height="76.08"/>
+	<rect id="room221f" x="608.34" y="204.67" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="37.54" height="76.08"/>
+	<rect id="room230f" x="240.63" y="204.67" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="67.43" height="76.08"/>
+	<rect id="room218f" x="308.06" y="318.79" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="75.07" height="76.08"/>
+	<rect id="room216f" x="383.13" y="318.79" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="75.07" height="76.08"/>
+	<rect id="wa212f" x="570.8" y="318.79" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="37.54" height="76.08"/>
+	<rect id="wa211f" x="608.34" y="318.79" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="37.54" height="76.08"/>
+	<rect id="wa213f" x="514.5" y="318.79" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="56.3" height="76.08"/>
+	<rect id="wa215f" x="458.2" y="318.79" fill="#A8D7EF" stroke="#273331" stroke-miterlimit="10" width="56.3" height="76.08"/>
+</g>
+<g id="MNOINT-word">
+	<text transform="matrix(1 0 0 1 612.4248 360.6013)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="10px">茶道部</text>
+	<text transform="matrix(1 0 0 1 266.2036 342.1572)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="20px">EV</text>
+	<text transform="matrix(1 0 0 1 88.8228 311.7408)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="20px">学生相談室</text>
+	<text transform="matrix(1 0 0 1 241.6276 216.8782)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">230</text>
+	<text transform="matrix(1 0 0 1 310.266 216.8784)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">229</text>
+	<text transform="matrix(1 0 0 1 347.5234 217.0986)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">228</text>
+	<text transform="matrix(1 0 0 1 384.9968 216.8786)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">227</text>
+	<text transform="matrix(1 0 0 1 423.4172 216.8786)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">226</text>
+	<text transform="matrix(1 0 0 1 461.2808 216.8786)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">225</text>
+	<text transform="matrix(1 0 0 1 497.7544 216.9884)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">224</text>
+	<text transform="matrix(1 0 0 1 535.2278 216.7685)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">223</text>
+	<text transform="matrix(1 0 0 1 573.6481 216.7685)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">222</text>
+	<text transform="matrix(1 0 0 1 611.5117 216.7685)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">221</text>
+	<text transform="matrix(1 0 0 1 310.8541 330.4208)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">218</text>
+	<text transform="matrix(1 0 0 1 385.5849 330.8601)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">216</text>
+	<text transform="matrix(1 0 0 1 460.0715 330.5647)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">215</text>
+	<text transform="matrix(1 0 0 1 515.5006 330.0044)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">213</text>
+	<text transform="matrix(1 0 0 1 571.8032 330.0042)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">212</text>
+	<text transform="matrix(1 0 0 1 610.1079 330.004)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">211</text>
+	<text transform="matrix(1 0 0 1 574.9323 360.6015)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="10px">茶道部</text>
+	<text transform="matrix(1 0 0 1 527.6519 360.9388)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="10px">将棋部</text>
+	<text transform="matrix(1 0 0 1 471.652 360.6018)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="10px">将棋部</text>
+	<text transform="matrix(1 0 0 1 405.6627 360.9371)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="10px">写真部</text>
+	<text transform="matrix(1 0 0 1 309.5925 355.9366)"><tspan x="0" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="9px">人力飛行機研究会</tspan><tspan x="19.85" y="12" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="9px">MaPPL</tspan></text>
+	<text transform="matrix(1 0 0 1 244.4451 244.4525)"><tspan x="0" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="10px">環境サークル</tspan><tspan x="12.94" y="12" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="10px">nature</tspan></text>
+	<text transform="matrix(1 0 0 1 421.93 240.4924)"><tspan x="0" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="7px">いきもの！</tspan><tspan x="3.5" y="9" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="7px">サークル</tspan><tspan x="10.5" y="18" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="7px">東京</tspan></text>
+	<text transform="matrix(1 0 0 1 610.6086 240.4304)"><tspan x="0" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="8px">Closeup</tspan><tspan x="4.35" y="10" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="8px">Magic</tspan><tspan x="4.9" y="20" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="8px">Circle</tspan></text>
+	<text transform="matrix(1 0 0 1 574.5709 251.2819)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="10px">美術部</text>
+	<text transform="matrix(1 0 0 1 461.9655 251.6528)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="10px">応援団</text>
+	<g>
+		<text transform="matrix(1 0 0 1 496.5325 245.6929)"><tspan x="0" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="9px">キャプス</tspan><tspan x="14.9" y="12" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="9px">5</tspan></text>
+	</g>
+	<text transform="matrix(1 0 0 1 538.5351 241.2817)"><tspan x="0" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="9px">ボード</tspan><tspan x="0" y="10" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="9px">ゲーム</tspan><tspan x="0" y="20" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="9px">研究会</tspan></text>
+	<text transform="matrix(1 0 0 1 385.8956 245.6928)"><tspan x="0" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="8px">推理小説</tspan><tspan x="4" y="9" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="8px">研究会</tspan></text>
+	<text transform="matrix(1 0 0 1 352.3599 245.7105)"><tspan x="0" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="6px">ワンダー</tspan><tspan x="-6" y="9" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="6px">フォーゲル部</tspan></text>
+	<text transform="matrix(1 0 0 1 309.3249 250.4304)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="7px">鉄道研究会</text>
+</g>
+</svg>
