@@ -1,6 +1,6 @@
 {
-	"mapwidth": "1000",
-	"mapheight": "500",
+	"mapwidth": "660",
+	"mapheight": "490",
 	"defaultstyle": "light",
 	"styles": [
 		{
@@ -16,48 +16,6 @@
 	],
 	"categories": [
 		{
-			"id": "fashion",
-			"title": "Fashion",
-			"about": "Cothing & Accessories",
-			"icon": "<i class=\"fas fa-tshirt\"></i>",
-			"color": "#FF9595"
-		},
-		{
-			"id": "health",
-			"title": "Health",
-			"about": "Health & Cosmetics",
-			"icon": "<i class=\"fas fa-heartbeat\"></i>",
-			"color": "#FFB985"
-		},
-		{
-			"id": "food",
-			"title": "Food, Drinks",
-			"about": "Fast-foods & Restaurants",
-			"icon": "<i class=\"fas fa-utensils\"></i>",
-			"color": "#AEC47E"
-		},
-		{
-			"id": "dep",
-			"title": "Department Stores",
-			"about": "Wide wariety of goods",
-			"color": "#8DB3DC",
-			"icon": "<i class=\"fas fa-shopping-cart\"></i>",
-			"style": "dark"
-		},
-		{
-			"id": "others",
-			"title": "Others",
-			"icon": "<i class=\"fas fa-lightbulb\"></i>",
-			"color": "#b091b7"
-		},
-		{
-			"id": "nopointer-logos",
-			"title": "Logos",
-			"toggle": "true",
-			"legend": "true",
-			"hide": "true"
-		},
-		{
 			"id": "使用可能教室",
 			"title": "利用可能教室",
 			"toggle": "true",
@@ -66,82 +24,81 @@
 	],
 	"levels": [
 		{
-			"id": "floor-1-1",
-			"title": "floor-1-1",
-			"map": "mapplic/maps/1-1map.svg",
-			"minimap": "mapplic/maps/1-1map.jpg",
+			"id": "floor-1-1-first",
+			"title": "1号館1階前半",
+			"map": "1-1map-first.svg",
+			"minimap": "1-1map-first.jpg",
 			"show": "true",
 			"locations": [
 				{
-					"id": "room101",
+					"id": "room101f",
 					"title": "101",
 					"about": "1号館1階101",
-					"description": "小教室",
-					"category": "使用可能教室",
-					"pin": "hidden",
+					"description": "das Lied",
+					"category": "音楽系",
 					"x": "0.2981",
 					"y": "0.4256"
 				},
 				{
-					"id": "room102",
+					"id": "room102f",
 					"title": "102",
 					"about": "1号館1階102",
-					"description": "小教室",
-					"category": "使用可能教室",
+					"description": "デモンストレーションルーム",
+					"category": "デモンストレーションルーム",
 					"x": "0.2981",
 					"y": "0.2534"
 				},
 				{
-					"id":"room103",
+					"id":"room103f",
 					"title":"103",
 					"about":"1号館1階103",
-					"description":"小教室",
-					"category":"使用可能教室",
+					"description":"サークル紹介本部",
+					"category":"サークル紹介本部",
 					"x":"0.3485",
 					"y":"0.2263"
 				},
 				{
-					"id":"room104",
+					"id":"room104f",
 					"title":"104",
 					"about":"1号館1階104",
-					"description":"小教室",
-					"category":"使用可能教室",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
 					"x":"0.4039",
 					"y":"0.2263"
 				},
 				{
-					"id":"room105",
+					"id":"room105f",
 					"title":"105",
 					"about":"1号館1階105",
-					"description":"小教室",
-					"category":"使用可能教室",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
 					"x":"0.4555",
 					"y":"0.2534"
 				},
 				{
-					"id":"room109",
+					"id":"room109f",
 					"title":"109",
 					"about":"1号館1階109",
-					"description":"小教室",
-					"category":"使用可能教室",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
 					"x":"0.4039",
 					"y":"0.4330"
 				},
 				{
-					"id":"room110",
+					"id":"room110f",
 					"title":"110",
 					"about":"1号館1階110",
-					"description":"大教室",
-					"category":"使用可能教室",
+					"description":"児童文化研究会<br>生協学生委員会つむぎ",
+					"category":"ボランティア, 個性的な活動",
 					"x":"0.6262",
 					"y":"0.2163"
 				},
 				{
-					"id":"room120",
+					"id":"room120f",
 					"title":"120",
 					"about":"1号館1階120",
-					"description":"大教室",
-					"category":"使用可能教室",
+					"description":"学術探検会<br>弓道部<br>CORE<br>女子バスケットボール部",
+					"category":"個性的な活動, 運動系, モノづくり",
 					"x":"0.6959",
 					"y":"0.5451"
 				}
