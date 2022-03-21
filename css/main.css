@@ -999,12 +999,6 @@ input[type="button"]:focus {
   outline: 0;
 }
 
-/* mapplic button */
-.mapplic-level-switcher > button{
-  height: 2rem;
-  letter-spacing: 0.3rem;
-}
-
 
 /* button primary
  * ------------------------------------------------- */
