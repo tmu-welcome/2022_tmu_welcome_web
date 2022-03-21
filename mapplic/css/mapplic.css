@@ -577,13 +577,6 @@
 	left: 0;
 }
 
-/* mapplic button */
-.mapplic-level-switcher > button{
-	height: 2rem;
-	letter-spacing: 0.3rem;
-	
-}
-
 
 /* Clear Button */
 .mapplic-clear-button {
@@ -726,10 +719,12 @@ button.mapplic-zoomout-button {
 	border-radius: 0;
 	color: #888;
 	cursor: pointer;
+	height: 2rem;
+	letter-spacing: 0.3rem;
 	display: block;
 	font-size: 11px;
 	font-weight: 600;
-	line-height: 20px;
+	line-height: 13px;
 	padding: 4px 10px;
 	text-align: center;
 	user-select: none;
