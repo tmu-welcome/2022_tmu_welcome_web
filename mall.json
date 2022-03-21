@@ -105,6 +105,17 @@
 			]
 		},
 		{
+			"id": "floor-1-2-first",
+			"title": "1号館2階前半",
+			"map": "1-2map-first.svg",
+			"minimap": "1-2map-first.jpg",
+			"locations": [
+				{
+					"id":"room210f"
+				}
+			]
+		},
+		{
 			"id": "ground-floor",
 			"title": "Ground Floor",
 			"map": "mapplic/maps/mall/mall-ground.svg",
