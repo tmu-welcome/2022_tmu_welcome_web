@@ -31,8 +31,8 @@
 		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="404.58" y1="481.93" x2="415" y2="478.42"/>
 		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="403.98" y1="480.16" x2="414.4" y2="476.64"/>
 	</g>
-	<polyline fill="#B5B5B6" stroke="#283331" stroke-miterlimit="10" points="458.08,198.35 458.08,182.8 620.65,182.8 635.2,182.8 
-		635.2,170.24 620.65,170.24 620.65,93 713.03,93 713.03,466.82 654.29,466.82 654.29,506.11 462.19,506.11 462.19,478.42 
+	<polyline fill="#B5B5B6" stroke="#283331" stroke-miterlimit="10" points="458.08,198.35 458.08,182.8 620.65,182.8 636.15,182.8 
+		636.15,167.3 620.65,167.3 620.65,93 713.03,93 713.03,466.82 654.29,466.82 654.29,506.11 462.19,506.11 462.19,478.42 
 		394.98,478.42 394.98,506.11 307.33,506.11 307.33,450.5 394.98,450.5 394.98,467.79 462.38,467.79 462.38,450.54 691.09,450.54 
 		691.09,192.22 577.14,192.22 577.14,198.35 458.08,198.35 	"/>
 	<polyline fill="#B5B5B6" stroke="#283331" stroke-miterlimit="10" points="127.29,219.02 127.29,200.86 185.74,200.86 
@@ -269,7 +269,7 @@
 		<rect id="room240f" x="577.14" y="375.75" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="113.95" height="74.79"/>
 </g>
 <g id="MNOINT-word">
-	<text transform="matrix(1 0 0 1 621.0821 180.7962)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">EV</text>
+	<text transform="matrix(1 0 0 1 621.0821 179.7962)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">EV</text>
 	<text transform="matrix(1 0 0 1 127.2901 133.4745)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12px">202</text>
 	<text transform="matrix(1 0 0 1 111.4537 433.8229)"><tspan x="0" y="0" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="20px">A</tspan><tspan x="13.12" y="0" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="20px" letter-spacing="5">V</tspan><tspan x="30" y="0" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="20px">棟</tspan></text>
 	<text transform="matrix(1 0 0 1 488.9888 485.387)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="20px">ロッカールーム</text>
