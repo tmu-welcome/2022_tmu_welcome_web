@@ -3,8 +3,8 @@
         <polyline id="base" points="0.5 0 660.5 0 660.5 506.06 0.5 506.06" fill="#dcdddd"/>
     </g>
     <g id="MLOC-buildings">
-        <rect id="soranomado" x="0.5" y="14.5" width="189.98" height="307.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="building1" x="475.29" y="373.9" width="185.44" height="130.62" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width="0.77"/>
+        <rect id="hall-building1" x="0.5" y="14.5" width="189.98" height="307.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+        <rect id="soranomado" x="475.29" y="373.9" width="185.44" height="130.62" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width="0.77"/>
         <polyline id="hall" points="446 46.02 660.5 46.02 660.5 303.02 446 303.02 446 46.02" fill="#aedef8" stroke="#283331" stroke-miterlimit="10" stroke-width="1.08"/>
     </g>
     <g id="MNOINT-word">

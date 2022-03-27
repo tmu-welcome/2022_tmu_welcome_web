@@ -10,9 +10,9 @@
         <polyline points="718.18 118.15 716.18 118.15 716.18 193.74 718.18 193.74" fill="#b5b5b6"/>
     </g>
     <g id="MLOC-avilable">
-        <polyline id="seikyo_space" points="513.04 103.33 120.87 103.33 120.87 425.46 353.37 425.46 353.37 376.22 430.4 376.22 430.35 349.52 418.5 349.52 418.5 319.66 513.04 319.45 513.04 155.31 434.67 155.14" fill="#d6d2e8" stroke="#231815" stroke-miterlimit="10" stroke-width="2"/>
-        <polygon id="danwa" points="512.68 319.14 512.68 228.46 399.37 228.46 399.37 319.14 422.63 319.14 512.68 319.14" fill="#aedef8" stroke="#231815" stroke-miterlimit="10"/>
-        <polygon id="shisaku" points="151.53 541.47 215.07 541.47 215.07 486.35 151.53 486.35 151.53 497.67 151.53 541.47" fill="#aedef8" stroke="#273331" stroke-miterlimit="10"/>
+        <polyline id="seikyo_spacef" points="513.04 103.33 120.87 103.33 120.87 425.46 353.37 425.46 353.37 376.22 430.4 376.22 430.35 349.52 418.5 349.52 418.5 319.66 513.04 319.45 513.04 155.31 434.67 155.14" fill="#d6d2e8" stroke="#231815" stroke-miterlimit="10" stroke-width="2"/>
+        <polygon id="danwaf" points="512.68 319.14 512.68 228.46 399.37 228.46 399.37 319.14 422.63 319.14 512.68 319.14" fill="#aedef8" stroke="#231815" stroke-miterlimit="10"/>
+        <polygon id="shisakuf" points="151.53 541.47 215.07 541.47 215.07 486.35 151.53 486.35 151.53 497.67 151.53 541.47" fill="#aedef8" stroke="#273331" stroke-miterlimit="10"/>
     </g>
     <g id="unavailable">
         <rect x="256.92" y="486.31" width="41.84" height="55.13" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>

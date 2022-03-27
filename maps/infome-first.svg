@@ -3,19 +3,19 @@
         <rect id="base-2" data-name="base" y="0.51" width="714.46" height="519.91" fill="#dcdddd"/>
     </g>
     <g id="MLOC-unavailable">
-        <rect id="building1" x="36.56" y="0.51" width="419.22" height="158.87" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="building7" x="36.56" y="388.59" width="443.59" height="116.23" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="Hall" x="643.99" y="0.51" width="70.47" height="92.6" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width="1.02"/>
+        <rect id="infome-building1f" x="36.56" y="0.51" width="419.22" height="158.87" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+        <rect id="infome-building7f" x="36.56" y="388.59" width="443.59" height="116.23" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+        <rect id="infome-hallf" x="643.99" y="0.51" width="70.47" height="92.6" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width="1.02"/>
     </g>
     <g id="MLOC-available">
-        <rect id="no8" x="97.16" y="287.95" width="74.18" height="86.27" transform="translate(465.34 196.83) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no7" x="220.35" y="287.95" width="74.18" height="86.27" transform="translate(588.52 73.64) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no6" x="343.53" y="287.95" width="74.18" height="86.27" transform="translate(711.7 -49.54) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no5" x="601.48" y="276.42" width="74.18" height="86.27" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no4" x="97.16" y="175.94" width="74.18" height="86.27" transform="translate(353.32 84.82) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no3" x="220.35" y="175.94" width="74.18" height="86.27" transform="translate(476.51 -38.37) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no2" x="343.53" y="175.94" width="74.18" height="86.27" transform="translate(599.69 -161.55) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no1" x="601.48" y="178.98" width="74.18" height="86.27" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+        <rect id="no8f" x="97.16" y="287.95" width="74.18" height="86.27" transform="translate(465.34 196.83) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+        <rect id="no7f" x="220.35" y="287.95" width="74.18" height="86.27" transform="translate(588.52 73.64) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+        <rect id="no6f" x="343.53" y="287.95" width="74.18" height="86.27" transform="translate(711.7 -49.54) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+        <rect id="no5f" x="601.48" y="276.42" width="74.18" height="86.27" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+        <rect id="no4f" x="97.16" y="175.94" width="74.18" height="86.27" transform="translate(353.32 84.82) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+        <rect id="no3f" x="220.35" y="175.94" width="74.18" height="86.27" transform="translate(476.51 -38.37) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+        <rect id="no2f" x="343.53" y="175.94" width="74.18" height="86.27" transform="translate(599.69 -161.55) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+        <rect id="no1f" x="601.48" y="178.98" width="74.18" height="86.27" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
     </g>
     <g id="MNOINT-word">
         <text transform="translate(227.27 96.42)" font-size="20" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">

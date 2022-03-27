@@ -240,14 +240,40 @@
 
             var self = map.data('mapplic');
 
-            $(document).on('click', '#building1', function (e) {
+            $(document).on('click', '#infome-building1f', function (e) {
                 e.preventDefault();
                 self.switchLevel('floor-1-1-first');
             });
 
-            $(document).on('click', '#building7', function (e) {
+            $(document).on('click', '#infome-building1s', function (e) {
+                e.preventDefault();
+                self.switchLevel('floor-1-1-second');
+            });
+
+
+            $(document).on('click', '#infome-building7f', function (e) {
                 e.preventDefault();
                 self.switchLevel('floor-7-1-first');
+            });
+
+            $(document).on('click', '#infome-building7s', function (e) {
+                e.preventDefault();
+                self.switchLevel('floor-7-1-second');
+            });
+
+            $(document).on('click', '#infome-hallf', function (e) {
+                e.preventDefault();
+                self.switchLevel('hall');
+            });
+
+            $(document).on('click', '#infome-halls', function (e) {
+                e.preventDefault();
+                self.switchLevel('hall');
+            });
+
+            $(document).on('click', '#hall-building1', function (e) {
+                e.preventDefault();
+                self.switchLevel('floor-1-1-first');
             });
 
         });
