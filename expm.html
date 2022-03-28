@@ -221,7 +221,25 @@
     <script type="text/javascript" src="mapplic/js/mapplic.js"></script>
     <script type="text/javascript" src="mapplic/js/jquery.mousewheel.js"></script>
     <script type="text/javascript">
-        $(document).ready(function() {
+        // https://alaki.co.jp/blog/?p=2546
+        $(document).ready(function() { 
+            $(function(){
+        	    var $isScrolling = 0 ;
+                var $timeoutId ;
+
+                $(document).on( "scroll", function () {
+        	        $isScrolling = 1 ;
+
+                // スクロールを停止して200ms後に終了とする
+                clearTimeout( $timeoutId );
+
+                $timeoutId = setTimeout( function () {
+                    $isScrolling = 0 ;
+                }, 200 );
+                });
+            });
+    
+            var clickEventType = (( window.ontouchstart!==null ) ? 'click':'touchend');
             var css = '.mapplic-filtered svg [id^=landmark] > * {opacity: 1 !important; }';
             var map_f = $('#mapplic_f').mapplic({
                 source: 'map_f.json',
@@ -244,22 +262,22 @@
 
             var self_f = map_f.data('mapplic');
 
-            $(document).on('click', '#infome-building1f', function (e) {
+            $(document).on(clickEventType, '#infome-building1f', function (e) {
                 e.preventDefault();
                 self_f.switchLevel('floor-1-1-first');
             });
             
-            $(document).on('click', '#infome-building7f', function (e) {
+            $(document).on(clickEventType, '#infome-building7f', function (e) {
                 e.preventDefault();
                 self_f.switchLevel('floor-7-1-first');
             });
 
-            $(document).on('click', '#infome-hallf', function (e) {
+            $(document).on(clickEventType, '#infome-hallf', function (e) {
                 e.preventDefault();
                 self_f.switchLevel('hall');
             });
 
-            $(document).on('click', '#hall-building1', function (e) {
+            $(document).on(clickEventType, '#hall-building1', function (e) {
                 e.preventDefault();
                 self_f.switchLevel('floor-1-1-first');
             });
@@ -286,23 +304,23 @@
 
             var self_s = map_s.data('mapplic');
 
-            $(document).on('click', '#infome-building1s', function (e) {
+            $(document).on(clickEventType, '#infome-building1s', function (e) {
                 e.preventDefault();
                 self_s.switchLevel('floor-1-1-second');
             });
 
-            $(document).on('click', '#infome-building7s', function (e) {
+            $(document).on(clickEventType, '#infome-building7s', function (e) {
                 e.preventDefault();
                 self_s.switchLevel('floor-7-1-second');
             });
 
 
-            $(document).on('click', '#infome-halls', function (e) {
+            $(document).on(clickEventType, '#infome-halls', function (e) {
                 e.preventDefault();
                 self_s.switchLevel('hall');
             });
 
-            $(document).on('click', '#hall-building1', function (e) {
+            $(document).on(clickEventType, '#hall-building1', function (e) {
                 e.preventDefault();
                 self_s.switchLevel('floor-1-1-first');
             });
