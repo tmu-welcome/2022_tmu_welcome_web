@@ -169,17 +169,17 @@
 
                     <h2>概要</h2>
 
-                    <h2>当日の部屋割り</h2>
-                    <section id="map-section" class="inner over">
-                        <div class="map-container">
-					    	<div id="mapplic"></div> <!-- Map -->
-					    </div>
-                    </section>
-
                     <h2>当日の部屋割り1</h2>
                     <section id="map-section" class="inner over">
                         <div class="map-container">
-					    	<div id="mapplic_mall"></div> <!-- Map -->
+					    	<div id="mapplic_f"></div> <!-- Map -->
+					    </div>
+                    </section>
+
+                    <h2>当日の部屋割り2</h2>
+                    <section id="map-section" class="inner over">
+                        <div class="map-container">
+					    	<div id="mapplic_s"></div>
 					    </div>
                     </section>
 
@@ -220,14 +220,13 @@
     <script src="js/main.js"></script>
     <script type="text/javascript" src="mapplic/js/mapplic.js"></script>
     <script type="text/javascript" src="mapplic/js/jquery.mousewheel.js"></script>
-    <script type="text/javascript" src="mapplic/js/script.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
             var css = '.mapplic-filtered svg [id^=landmark] > * {opacity: 1 !important; }';
-            var map = $('#mapplic').mapplic({
-                source: 'building1.json',
+            var map_f = $('#mapplic_f').mapplic({
+                source: 'map_f.json',
                 customcss: css,
-                sidebar: true,
+                sidebar: false,
                 sidebartoggle: true,
                 alphabetic: true,
                 height: 'auto',
@@ -242,10 +241,33 @@
                 thumbholder: true,
                 maxscale: 3
             });
-            var map = $('#mapplic_mall').mapplic({
-                source: 'building1.json',
+
+            var self_f = map_f.data('mapplic');
+
+            $(document).on('click', '#infome-building1f', function (e) {
+                e.preventDefault();
+                self_f.switchLevel('floor-1-1-first');
+            });
+            
+            $(document).on('click', '#infome-building7f', function (e) {
+                e.preventDefault();
+                self_f.switchLevel('floor-7-1-first');
+            });
+
+            $(document).on('click', '#infome-hallf', function (e) {
+                e.preventDefault();
+                self_f.switchLevel('hall');
+            });
+
+            $(document).on('click', '#hall-building1', function (e) {
+                e.preventDefault();
+                self_f.switchLevel('floor-1-1-first');
+            });
+
+            var map_s = $('#mapplic_s').mapplic({
+                source: 'map_s.json',
                 customcss: css,
-                sidebar: true,
+                sidebar: false,
                 sidebartoggle: true,
                 alphabetic: true,
                 height: 'auto',
@@ -259,7 +281,31 @@
                 fullscreen: false,
                 thumbholder: true,
                 maxscale: 3
+            });
+
+            var self_s = map_s.data('mapplic');
+
+            $(document).on('click', '#infome-building1s', function (e) {
+                e.preventDefault();
+                self_s.switchLevel('floor-1-1-second');
+            });
+
+            $(document).on('click', '#infome-building7s', function (e) {
+                e.preventDefault();
+                self_s.switchLevel('floor-7-1-second');
+            });
+
+
+            $(document).on('click', '#infome-halls', function (e) {
+                e.preventDefault();
+                self_s.switchLevel('hall');
+            });
+
+            $(document).on('click', '#hall-building1', function (e) {
+                e.preventDefault();
+                self_s.switchLevel('floor-1-1-first');
             });
         });
+        
     </script>
 </body>
