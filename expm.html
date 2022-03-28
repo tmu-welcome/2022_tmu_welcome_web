@@ -170,31 +170,6 @@
                     <h2>概要</h2>
 
                     <h2>当日の部屋割り1</h2>
-                    <div class="entry__tags">            
-                        <span class="tag-index">
-                            <a class="work" id="building1_1f">
-                            1号館１F前半
-                            </a>
-                            <a class="work" id="building1_2f">
-                            1号館２F前半
-                            </a>
-                            <a class="work" id="building7_1f">
-                            7号館１F前半
-                            </a>
-                            <a class="work" id="building7_2f">
-                            7号館２F前半
-                            </a><br>
-                            <a class="work" id="gakuhallf">
-                            学生ホール前半
-                            </a>
-                            <a class="work" id="hallf">
-                            講堂
-                            </a>
-                            <a class="work" id="infome_f">
-                            インフォメーションギャラリー前半
-                            </a>
-                        </span>
-                    </div>
                     <section id="map-section" class="inner over">
                         <div class="map-container">
 					    	<div id="mapplic_f"></div> <!-- Map -->
@@ -287,42 +262,6 @@
             $(document).on('click', '#hall-building1', function (e) {
                 e.preventDefault();
                 self_f.switchLevel('floor-1-1-first');
-            });
-
-        // External Button
-            $(document).on('click', '#infome_f', function (e) {
-                e.preventDefault();
-                self_f.switchLevel('infome-first');
-            });
-
-            $(document).on('click', '#building1_1f', function (e) {
-                e.preventDefault();
-                self_f.switchLevel('floor-1-1-first');
-            });
-
-            $(document).on('click', '#building1_2f', function (e) {
-                e.preventDefault();
-                self_f.switchLevel('floor-1-2-first');
-            });
-            
-            $(document).on('click', '#building7_1f', function (e) {
-                e.preventDefault();
-                self_f.switchLevel('floor-7-1-first');
-            });
-            
-            $(document).on('click', '#building7_2f', function (e) {
-                e.preventDefault();
-                self_f.switchLevel('floor-7-2-first');
-            });
-
-            $(document).on('click', '#gakuhallf', function (e) {
-                e.preventDefault();
-                self_f.switchLevel('gakuhall-first');
-            });
-
-            $(document).on('click', '#hallf', function (e) {
-                e.preventDefault();
-                self_f.switchLevel('hall');
             });
 
 

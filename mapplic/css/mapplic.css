@@ -709,8 +709,8 @@ button.mapplic-zoomout-button {
 /* new switcher */
 .mapplic-level-switcher {
 	position: absolute;
-	right: 0;
-	top: 0px;
+	left: 0;
+	bottom: 0px;
 	margin: 12px;
 }
 
