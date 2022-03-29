@@ -516,7 +516,11 @@
 }
 
 .mapplic-minimap-layer { line-height: 0; }
-.mapplic-minimap img { width: 100%; }
+.mapplic-minimap img {
+	 width: 100%; 
+	 margin-top: 0 ;
+    margin-bottom: 0 ;
+	}
 
 .mapplic-minimap-overlay {
 	background-color: rgba(0, 0, 0, 0.4);
