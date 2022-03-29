@@ -983,9 +983,11 @@ input.mapplic-search-input:focus {
 	border-radius: 12px;
 	border: none;
 	color: rgba(255, 255, 255, 0.8);
+	height: 3rem;
 	text-transform: uppercase;
 	cursor: pointer;
-	font-size: 9px;
+	font-size: 12px;
+	letter-spacing: 0.3rem;
 	line-height: 20px;
 	font-weight: 600;
 	margin-right: 6px;

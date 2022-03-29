@@ -345,7 +345,7 @@
 		},
 		{
 			"id":"infome-second",
-			"title":"インフォメーションギャラリー後半",
+			"title":"インフォメ後半",
 			"map":"maps/infome-second.svg",
 			"minimap":"maps/infome-second.jpg",
 			"locations":[

@@ -20,7 +20,7 @@ $(document).ready(function() {
 	var map_f = $('#mapplic_f').mapplic({
 		source: 'map_f.json',
 		customcss: css,
-		sidebar: false,
+		sidebar: true,
 		sidebartoggle: true,
 		alphabetic: true,
 		height: 'auto',
@@ -62,7 +62,7 @@ $(document).ready(function() {
 	var map_s = $('#mapplic_s').mapplic({
 		source: 'map_s.json',
 		customcss: css,
-		sidebar: false,
+		sidebar: true,
 		sidebartoggle: true,
 		alphabetic: true,
 		height: 'auto',
