@@ -98,6 +98,6 @@ $(document).ready(function() {
 
 	$(document).on(clickEventType, '#hall-building1', function (e) {
 		e.preventDefault();
-		self_s.switchLevel('floor-1-1-first');
+		self_s.switchLevel('floor-1-1-second');
 	});
 });
