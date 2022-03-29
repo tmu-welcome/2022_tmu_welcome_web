@@ -20,6 +20,12 @@
 			"title": "利用可能教室",
 			"toggle": "true",
 			"color": "#b091b7"
+		}, 
+		{
+			"id": "運動系",
+			"title": "運動系の団体",
+			"toggle": "true",
+			"color": "#6d9eeb"
 		}
 	],
 	"levels": [
@@ -346,7 +352,7 @@
 		},
 		{
 			"id":"infome-first",
-			"title":"インフォメーションギャラリー前半",
+			"title":"インフォメ前半",
 			"map":"maps/infome-first.svg",
 			"minimap":"maps/infome-first.jpg",
 			"locations":[
