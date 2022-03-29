@@ -490,10 +490,10 @@ th {
   font-weight: 700;
 }
 
-th:first-child,
+/*th:first-child,
 td:first-child {
   padding-left: 0;
-}
+}*/
 
 th:last-child,
 td:last-child {
