@@ -503,7 +503,7 @@
 	border: 1px solid rgba(0, 0, 0, 0.1);
 	position: absolute;
 	margin: 12px;
-	bottom: 0;
+	top: 0;
 	left: 0;
 	opacity: 0.5;
 	overflow: hidden;
