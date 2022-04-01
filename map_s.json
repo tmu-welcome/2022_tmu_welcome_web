@@ -16,10 +16,34 @@
 	],
 	"categories": [
 		{
-			"id": "使用可能教室",
-			"title": "利用可能教室",
+			"id": "運動系",
+			"title": "運動系の団体",
 			"toggle": "true",
-			"color": "#b091b7"
+			"color": "#6d9eeb"
+		},
+		{
+			"id": "音楽系",
+			"title": "音楽系の団体",
+			"toggle": "true",
+			"color": "#ff4ace"
+		},
+		{
+			"id": "ボランティア",
+			"title": "ボランティア系の団体",
+			"toggle": "true",
+			"color": "#8ffc56"
+		},
+		{
+			"id": "文化系",
+			"title": "文化系の団体",
+			"toggle": "true",
+			"color": "#ff3d3e"
+		},
+		{
+			"id": "個性的な活動",
+			"title": "個性的な活動をする団体",
+			"toggle": "true",
+			"color": "#fff64d"
 		}
 	],
 	"levels": [
@@ -42,8 +66,8 @@
 					"id": "room102s",
 					"title": "102",
 					"about": "1号館1階102",
-					"description": "デモンストレーションルーム",
-					"category": "デモンストレーションルーム",
+					"description": "ロボコン部TEXNITIS",
+					"category": "モノづくり",
 					"x": "0.1270",
 					"y": "0.2217"
 				},
@@ -96,8 +120,8 @@
 					"id":"room120s",
 					"title":"120",
 					"about":"1号館1階120",
-					"description":"学術探検会<br>弓道部<br>CORE<br>女子バスケットボール部",
-					"category":"個性的な活動, 運動系, モノづくり",
+					"description":"合氣道部<br>空手道部<br>テコンドー部<br>少林寺拳法部",
+					"category":"運動系",
 					"x":"0.8497",
 					"y":"0.5950"
 				}

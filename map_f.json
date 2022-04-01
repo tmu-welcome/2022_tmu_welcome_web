@@ -16,16 +16,34 @@
 	],
 	"categories": [
 		{
-			"id": "使用可能教室",
-			"title": "利用可能教室",
-			"toggle": "true",
-			"color": "#b091b7"
-		}, 
-		{
 			"id": "運動系",
 			"title": "運動系の団体",
 			"toggle": "true",
 			"color": "#6d9eeb"
+		},
+		{
+			"id": "音楽系",
+			"title": "音楽系の団体",
+			"toggle": "true",
+			"color": "#ff4ace"
+		},
+		{
+			"id": "ボランティア",
+			"title": "ボランティア系の団体",
+			"toggle": "true",
+			"color": "#8ffc56"
+		},
+		{
+			"id": "文化系",
+			"title": "文化系の団体",
+			"toggle": "true",
+			"color": "#ff6969"
+		},
+		{
+			"id": "個性的な活動",
+			"title": "個性的な活動をする団体",
+			"toggle": "true",
+			"color": "#fff64d"
 		}
 	],
 	"levels": [
@@ -49,8 +67,8 @@
 					"id": "room102f",
 					"title": "102",
 					"about": "1号館1階102",
-					"description": "デモンストレーションルーム",
-					"category": "デモンストレーションルーム",
+					"description": "ジャグリングサークルTeam'Lamp'",
+					"category": "個性的な活動",
 					"x": "0.1270",
 					"y": "0.2217"
 				},
