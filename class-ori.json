@@ -1,0 +1,233 @@
+{
+	"mapwidth": "660",
+	"mapheight": "490",
+	"defaultstyle": "light",
+	"styles": [
+		{
+			"class": "light",
+			"hover": { "fill": "#f4f4f4" },
+			"active": { "fill": "#fff" }
+		},
+		{
+			"class": "dark",
+			"hover": { "fill": "#666" },
+			"active": { "fill": "#555" }
+		}
+	],
+	"categories": [
+		{
+			"id": "使用可能教室",
+			"title": "利用可能教室",
+			"toggle": "true",
+			"color": "#b091b7"
+		}
+	],
+	"levels": [
+		{
+			"id": "4/4_1-1_f",
+			"title": "4月4日1号館1階13時～",
+			"map": "maps/class-ori/4-4_1-1_f.svg",
+			"minimap": "maps/class-ori/4-4_1-1_f.jpg",
+			"show": "true",
+			"locations": [
+				{
+					"id": "room101f",
+					"title": "101",
+					"about": "1号館1階101",
+					"description": "das Lied",
+					"category": "音楽系",
+					"x": "0.1270",
+					"y": "0.4188"
+				},
+				{
+					"id": "room102f",
+					"title": "102",
+					"about": "1号館1階102",
+					"description": "デモンストレーションルーム",
+					"category": "デモンストレーションルーム",
+					"x": "0.1270",
+					"y": "0.2217"
+				},
+				{
+					"id":"room103f",
+					"title":"103",
+					"about":"1号館1階103",
+					"description":"サークル紹介本部",
+					"category":"サークル紹介本部",
+					"x":"0.2195",
+					"y":"0.1781"
+				},
+				{
+					"id":"room104f",
+					"title":"104",
+					"about":"1号館1階104",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
+					"x":"0.3151",
+					"y":"0.1781"
+				},
+				{
+					"id":"room105f",
+					"title":"105",
+					"about":"1号館1階105",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
+					"x":"0.4136",
+					"y":"0.2217"
+				},
+				{
+					"id":"room109f",
+					"title":"109",
+					"about":"1号館1階109",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
+					"x":"0.3151",
+					"y":"0.4226"
+				},
+				{
+					"id":"room110f",
+					"title":"110",
+					"about":"1号館1階110",
+					"description":"児童文化研究会<br>生協学生委員会つむぎ",
+					"category":"ボランティア, 個性的な活動",
+					"x":"0.7147",
+					"y":"0.1724"
+				},
+				{
+					"id":"room120f",
+					"title":"120",
+					"about":"1号館1階120",
+					"description":"学術探検会<br>弓道部<br>CORE<br>女子バスケットボール部",
+					"category":"個性的な活動, 運動系, モノづくり",
+					"x":"0.8497",
+					"y":"0.5950"
+				}
+			]
+		},
+		{
+			"id": "4/4_1-2_f",
+			"title": "4月4日1号館2階13時～",
+			"map": "maps/class-ori/4-4_1-2_f.svg",
+			"minimap": "maps/class-ori/4-4_1-2_f.jpg",
+			"locations": [
+				{
+					"id":"room210f",
+					"title":"210",
+					"about":"1号館2階210",
+					"description":"硬式庭球部<br>バドミントン部",
+					"category":"運動系",
+					"x":"0.7239",
+					"y":"0.1750"
+				},
+				{
+					"id":"room220f",
+					"title":"220",
+					"about":"1号館2階220",
+					"description":"劇団時計<br>Dolce",
+					"category":"文化系, 音楽系",
+					"x":"0.8547",
+					"y":"0.3782"
+				},
+				{
+					"id":"room230f",
+					"title":"230",
+					"about":"1号館2階230",
+					"description":"skyhand<br>星泳会<br>B類サッカー部<br>B類バスケットボール部",
+					"category":"運動系",
+					"x":"0.8547",
+					"y":"0.5619"
+				},
+				{
+					"id":"room240f",
+					"title":"240",
+					"about":"1号館2階240",
+					"description":"ESS<br>J-Boy",
+					"category":"文化系, 個性的な活動",
+					"x":"0.8547",
+					"y":"0.7330"
+				}
+			]
+		},
+		{
+			"id": "4/4_1-1_s",
+			"title": "4月4日1号館1階16時～",
+			"map": "maps/class-ori/4-4_1-1_s.svg",
+			"minimap": "maps/class-ori/4-4_1-1_s.jpg",
+			"show": "true",
+			"locations": [
+				{
+					"id": "room101f",
+					"title": "101",
+					"about": "1号館1階101",
+					"description": "das Lied",
+					"category": "音楽系",
+					"x": "0.1270",
+					"y": "0.4188"
+				},
+				{
+					"id": "room102f",
+					"title": "102",
+					"about": "1号館1階102",
+					"description": "デモンストレーションルーム",
+					"category": "デモンストレーションルーム",
+					"x": "0.1270",
+					"y": "0.2217"
+				},
+				{
+					"id":"room103f",
+					"title":"103",
+					"about":"1号館1階103",
+					"description":"サークル紹介本部",
+					"category":"サークル紹介本部",
+					"x":"0.2195",
+					"y":"0.1781"
+				},
+				{
+					"id":"room104f",
+					"title":"104",
+					"about":"1号館1階104",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
+					"x":"0.3151",
+					"y":"0.1781"
+				},
+				{
+					"id":"room105f",
+					"title":"105",
+					"about":"1号館1階105",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
+					"x":"0.4136",
+					"y":"0.2217"
+				},
+				{
+					"id":"room109f",
+					"title":"109",
+					"about":"1号館1階109",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
+					"x":"0.3151",
+					"y":"0.4226"
+				},
+				{
+					"id":"room110f",
+					"title":"110",
+					"about":"1号館1階110",
+					"description":"児童文化研究会<br>生協学生委員会つむぎ",
+					"category":"ボランティア, 個性的な活動",
+					"x":"0.7147",
+					"y":"0.1724"
+				},
+				{
+					"id":"room120f",
+					"title":"120",
+					"about":"1号館1階120",
+					"description":"学術探検会<br>弓道部<br>CORE<br>女子バスケットボール部",
+					"category":"個性的な活動, 運動系, モノづくり",
+					"x":"0.8497",
+					"y":"0.5950"
+				}
+			]
+		}
+	]
+}
