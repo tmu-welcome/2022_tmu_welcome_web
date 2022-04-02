@@ -22,6 +22,8 @@
     <polyline points="209.64 411.65 209.64 434.1 264.03 434.1 264.03 411.65 209.64 411.65" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
     <polyline points="114.13 320.74 15.36 320.74 15.36 452.84 114.13 452.84 114.13 320.74" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
     <polyline points="407.9 410.63 616.58 410.63 616.58 434.1 407.9 434.1 407.9 410.63" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="room110" x="404.84" y="37.16" width="144.16" height="89.8" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <polyline id="room120" points="506.37 206.55 616.58 206.55 616.58 372.27 506.37 372.27 506.37 206.55" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
   </g>
   <g id="_下" data-name="廊下">
     <polygon points="386.47 142.52 386.47 126.96 565.56 126.96 565.56 111.14 549 111.14 549 37.16 631.37 37.16 631.37 120.84 615.05 120.84 615.05 126.96 582.63 163.18 582.63 176.83 529.33 176.83 516 190.16 516 206.55 506.37 206.55 506.37 393.29 616.58 393.29 616.58 410.63 378.82 410.63 378.82 434.1 264.03 434.1 264.03 411.65 209.64 411.65 209.64 393.29 479.87 393.29 479.87 199.92 494.64 176.83 494.64 151.9 485.87 143.13 386.47 142.52" fill="#b5b5b6" stroke="#283331" stroke-miterlimit="10"/>
@@ -135,14 +137,12 @@
     </g>
   </g>
   <g id="MLOC-available">
-    <rect id="room109" x="177.8" y="176.83" width="63.67" height="68.45" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="room110" x="404.84" y="37.16" width="144.16" height="89.8" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="room102" x="55.69" y="65.99" width="58.44" height="79.04" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="room101" x="55.69" y="163.18" width="58.44" height="82.1" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="room103" x="114.13" y="50.43" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="room104" x="177.8" y="50.43" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="room105" x="241.47" y="65.99" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <polyline id="room120" points="506.37 206.55 616.58 206.55 616.58 372.27 506.37 372.27 506.37 206.55" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room101_f" x="55.69" y="163.18" width="58.44" height="82.1" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room102_f" x="55.69" y="65.99" width="58.44" height="79.04" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room103_f" x="114.13" y="50.43" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room104_f" x="177.8" y="50.43" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room105_f" x="241.47" y="65.99" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room109_f" x="177.8" y="176.83" width="63.67" height="68.45" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
   </g>
   <g id="MNOINT-words">
     <text transform="translate(407.9 50.43)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="12"><tspan x="0" y="0">110</tspan></text>
