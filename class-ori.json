@@ -16,54 +16,53 @@
 	],
 	"levels": [
 		{
-			"id": "4/4_1-1_f",
-			"title": "4月4日1号館1階13時～",
-			"map": "maps/class-ori/4-4_1-1_f.svg",
-			"minimap": "maps/class-ori/4-4_1-1_f.jpg",
-			"show": "true",
+			"id": "4/4_1-1_s",
+			"title": "4月4日1号館1階16時～",
+			"map": "maps/class-ori/4-4_1-1_s.svg",
+			"minimap": "maps/class-ori/4-4_1-1_s.jpg",
 			"locations": [
 				{
-					"id": "4-4_room101_f",
+					"id": "4-4_room101_s",
 					"title": "101",
 					"about": "1号館1階101",
-					"description": "法学部法学科21",
-					"category": "法学部",
+					"description": "人文社会学部人間社会学科11",
+					"category": "人文社会学部",
 					"x": "0.1270",
 					"y": "0.4188"
 				},
 				{
-					"id": "4-4_room102_f",
+					"id": "4-4_room102_s",
 					"title": "102",
 					"about": "1号館1階102",
-					"description": "法学部法学科22",
-					"category": "法学部",
+					"description": "人文社会学部人間社会学科12",
+					"category": "人文社会学部",
 					"x": "0.1270",
 					"y": "0.2217"
 				},
 				{
-					"id":"4-4_room103_f",
+					"id":"4-4_room103_s",
 					"title":"103",
 					"about":"1号館1階103",
-					"description":"法学部法学科23",
-					"category":"法学部",
+					"description":"人文社会学部人間社会学科13",
+					"category":"人文社会学部",
 					"x":"0.2195",
 					"y":"0.1781"
 				},
 				{
-					"id":"4-4_room104_f",
+					"id":"4-4_room104_s",
 					"title":"104",
 					"about":"1号館1階104",
-					"description":"法学部法学科24",
-					"category":"法学部",
+					"description":"人文社会学部人文学科14",
+					"category":"人文社会学部",
 					"x":"0.3151",
 					"y":"0.1781"
 				},
 				{
-					"id":"4-4_room105_f",
+					"id":"4-4_room105_s",
 					"title":"105",
 					"about":"1号館1階105",
-					"description":"法学部法学科25",
-					"category":"法学部",
+					"description":"人文社会学部人文学科15",
+					"category":"人文社会学部",
 					"x":"0.4136",
 					"y":"0.2217"
 				}
@@ -123,53 +122,54 @@
 			]
 		},
 		{
-			"id": "4/4_1-1_s",
-			"title": "4月4日1号館1階16時～",
-			"map": "maps/class-ori/4-4_1-1_s.svg",
-			"minimap": "maps/class-ori/4-4_1-1_s.jpg",
+			"id": "4/4_1-1_f",
+			"title": "4月4日1号館1階13時～",
+			"map": "maps/class-ori/4-4_1-1_f.svg",
+			"minimap": "maps/class-ori/4-4_1-1_f.jpg",
+			"show": "true",
 			"locations": [
 				{
-					"id": "4-4_room101_s",
+					"id": "4-4_room101_f",
 					"title": "101",
 					"about": "1号館1階101",
-					"description": "人文社会学部人間社会学科11",
-					"category": "人文社会学部",
+					"description": "法学部法学科21",
+					"category": "法学部",
 					"x": "0.1270",
 					"y": "0.4188"
 				},
 				{
-					"id": "4-4_room102_s",
+					"id": "4-4_room102_f",
 					"title": "102",
 					"about": "1号館1階102",
-					"description": "人文社会学部人間社会学科12",
-					"category": "人文社会学部",
+					"description": "法学部法学科22",
+					"category": "法学部",
 					"x": "0.1270",
 					"y": "0.2217"
 				},
 				{
-					"id":"4-4_room103_s",
+					"id":"4-4_room103_f",
 					"title":"103",
 					"about":"1号館1階103",
-					"description":"人文社会学部人間社会学科13",
-					"category":"人文社会学部",
+					"description":"法学部法学科23",
+					"category":"法学部",
 					"x":"0.2195",
 					"y":"0.1781"
 				},
 				{
-					"id":"4-4_room104_s",
+					"id":"4-4_room104_f",
 					"title":"104",
 					"about":"1号館1階104",
-					"description":"人文社会学部人文学科14",
-					"category":"人文社会学部",
+					"description":"法学部法学科24",
+					"category":"法学部",
 					"x":"0.3151",
 					"y":"0.1781"
 				},
 				{
-					"id":"4-4_room105_s",
+					"id":"4-4_room105_f",
 					"title":"105",
 					"about":"1号館1階105",
-					"description":"人文社会学部人文学科15",
-					"category":"人文社会学部",
+					"description":"法学部法学科25",
+					"category":"法学部",
 					"x":"0.4136",
 					"y":"0.2217"
 				}
