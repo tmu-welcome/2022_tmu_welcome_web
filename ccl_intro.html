@@ -166,8 +166,16 @@
                             サークル紹介
                         </h1>
                     </div> <!-- end content__page-header -->
+                    
+                    <h2>目次</h2>
+                    <ul>
+                        <li><a href="#outline">概要</a></li>
+                        <li><a href="#participate">参加方法</a> </li>
+                        <li><a href="#prev_inf">感染対策へのご協力のお願い</a>
+                        <li><a href="#map">サークル紹介参加団体案内図</a></li>
+                    </ul>
 
-                    <h2>概要</h2>
+                    <h2 id="outline">概要</h2>
                     <p>開催：4/9（土）10:30~16:30<br>
                         オンライン会場は16時半以降も続行可能
                     </p>
@@ -185,18 +193,23 @@
                         また、講堂小ホールや生協広場では、演奏やパフォーマンスの披露が行われます。
                     </p>
 
-                    <h2>参加方法</h2>
+                    <h2 id="participate">参加方法</h2>
                     <p>
-                        開催時間に南大沢キャンパスに足を運ぶだけです。特に、申請もなにも必要ありません。<br>
+                        開催時間に南大沢キャンパスに足を運ぶだけです。特に、申請も必要ないほか、入退場も自由です。<br>
                         オンラインで参加される方は<a href="https://jjh.tmu.ac.jp/campusweb/">campas square</a>から、サークル紹介専用のLINE Open Chatにお入りいただき、ご参加ください。
                     </p>
 
-                    <h2>当日の部屋割り</h2>
-                    <section id="map-section" class="inner over">
-                        <div class="map-container">
-					    	<div id="mapplic"></div> <!-- Map -->
-					    </div>
-                    </section>
+                    <h2 id="prev_inf">感染対策へのご協力のお願い</h2>
+                    <p>
+                        サークル紹介では、人が入れ替わりながら多くの人と交流するため、大きなクラスターの要因となりえます。
+                        この際に、追跡を容易にするために、新入生の皆さんには、団体のブースから退場する際に必ず「新入生入退室確認フォーム」へご回答いただきたく存じます。
+                    </p>
+                    <p>
+                        スマートフォンを利用しますので、充電やモバイルバッテリーの携行を忘れないようにしてください。
+                        スマートフォンをお持ちでない方はお手数ですが、開催当日本部（1-103）までお越しください。
+                    </p>
+
+                    <h2 id="map">当日の部屋割り（準備中）</h2>
 
 
 
@@ -236,27 +249,5 @@
     <script type="text/javascript" src="mapplic/js/mapplic.js"></script>
     <script type="text/javascript" src="mapplic/js/jquery.mousewheel.js"></script>
     <script type="text/javascript" src="mapplic/js/script.js"></script>
-    <script type="text/javascript">
-        $(document).ready(function() {
-            var css = '.mapplic-filtered svg [id^=landmark] > * {opacity: 1 !important; }';
-            var map = $('#mapplic').mapplic({
-                source: 'building1.json',
-                customcss: css,
-                sidebar: false,
-                sidebartoggle: true,
-                alphabetic: true,
-                height: 'auto',
-                developer: true,
-                searchdescription: true,
-                searcheverywhere: true,
-                animations: true,
-                minimap: true,
-                marker: 'hidden',
-                fillcolor: false,
-                fullscreen: false,
-                thumbholder: true,
-                maxscale: 3
-            });
-        });
-    </script>
+
 </body>
