@@ -27,7 +27,6 @@ $(document).ready(function() {
 		developer: false,
 		searchdescription: true,
 		searcheverywhere: true,
-		serrchdescription: true,
 		animations: true,
 		minimap: true,
 		marker: 'hidden',

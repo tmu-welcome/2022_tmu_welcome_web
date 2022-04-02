@@ -450,21 +450,24 @@
 					"title":"1号館",
 					"x":"0.3482",
 					"y":"0.1594",
-					"zoom":"0"
+					"zoom":"0",
+					"hide":"true"
 				},
 				{
 					"id":"infome-building7s",
 					"title":"7号館",
 					"x":"0.3556",
 					"y":"0.8538",
-					"zoom":"0"
+					"zoom":"0",
+					"hide":"true"
 				},
 				{
 					"id":"infome-halls",
 					"title":"講堂",
 					"x":"0.9511",
 					"y":"0.0903",
-					"zoom":"0"
+					"zoom":"0",
+					"hide":"true"
 				}
 			]
 		},
@@ -514,7 +517,8 @@
 					"title":"1号館",
 					"x":"0.1479",
 					"y":"0.3265",
-					"zoom":"0"
+					"zoom":"0",
+					"hide":"true"
 				}
 			]
 		}
