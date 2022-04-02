@@ -14,14 +14,6 @@
 			"active": { "fill": "#555" }
 		}
 	],
-	"categories": [
-		{
-			"id": "使用可能教室",
-			"title": "利用可能教室",
-			"toggle": "true",
-			"color": "#b091b7"
-		}
-	],
 	"levels": [
 		{
 			"id": "4/4_1-1_f",
@@ -31,76 +23,49 @@
 			"show": "true",
 			"locations": [
 				{
-					"id": "room101f",
+					"id": "4-4_room101_f",
 					"title": "101",
 					"about": "1号館1階101",
-					"description": "das Lied",
-					"category": "音楽系",
+					"description": "法学部法学科21",
+					"category": "法学部",
 					"x": "0.1270",
 					"y": "0.4188"
 				},
 				{
-					"id": "room102f",
+					"id": "4-4_room102_f",
 					"title": "102",
 					"about": "1号館1階102",
-					"description": "デモンストレーションルーム",
-					"category": "デモンストレーションルーム",
+					"description": "法学部法学科22",
+					"category": "法学部",
 					"x": "0.1270",
 					"y": "0.2217"
 				},
 				{
-					"id":"room103f",
+					"id":"4-4_room103_f",
 					"title":"103",
 					"about":"1号館1階103",
-					"description":"サークル紹介本部",
-					"category":"サークル紹介本部",
+					"description":"法学部法学科23",
+					"category":"法学部",
 					"x":"0.2195",
 					"y":"0.1781"
 				},
 				{
-					"id":"room104f",
+					"id":"4-4_room104_f",
 					"title":"104",
 					"about":"1号館1階104",
-					"description":"デモンストレーションルーム",
-					"category":"デモンストレーションルーム",
+					"description":"法学部法学科24",
+					"category":"法学部",
 					"x":"0.3151",
 					"y":"0.1781"
 				},
 				{
-					"id":"room105f",
+					"id":"4-4_room105_f",
 					"title":"105",
 					"about":"1号館1階105",
-					"description":"デモンストレーションルーム",
-					"category":"デモンストレーションルーム",
+					"description":"法学部法学科25",
+					"category":"法学部",
 					"x":"0.4136",
 					"y":"0.2217"
-				},
-				{
-					"id":"room109f",
-					"title":"109",
-					"about":"1号館1階109",
-					"description":"デモンストレーションルーム",
-					"category":"デモンストレーションルーム",
-					"x":"0.3151",
-					"y":"0.4226"
-				},
-				{
-					"id":"room110f",
-					"title":"110",
-					"about":"1号館1階110",
-					"description":"児童文化研究会<br>生協学生委員会つむぎ",
-					"category":"ボランティア, 個性的な活動",
-					"x":"0.7147",
-					"y":"0.1724"
-				},
-				{
-					"id":"room120f",
-					"title":"120",
-					"about":"1号館1階120",
-					"description":"学術探検会<br>弓道部<br>CORE<br>女子バスケットボール部",
-					"category":"個性的な活動, 運動系, モノづくり",
-					"x":"0.8497",
-					"y":"0.5950"
 				}
 			]
 		},
@@ -111,40 +76,49 @@
 			"minimap": "maps/class-ori/4-4_1-2_f.jpg",
 			"locations": [
 				{
-					"id":"room210f",
-					"title":"210",
-					"about":"1号館2階210",
-					"description":"硬式庭球部<br>バドミントン部",
-					"category":"運動系",
-					"x":"0.7239",
-					"y":"0.1750"
+					"id": "4-4_room201_f",
+					"title": "201",
+					"about": "1号館2階201",
+					"description": "経済経営学部経済経営学科31",
+					"category": "経済経営学部",
+					"x": "0.1270",
+					"y": "0.4188"
 				},
 				{
-					"id":"room220f",
-					"title":"220",
-					"about":"1号館2階220",
-					"description":"劇団時計<br>Dolce",
-					"category":"文化系, 音楽系",
-					"x":"0.8547",
-					"y":"0.3782"
+					"id": "4-4_room202_f",
+					"title": "202",
+					"about": "1号館2階202",
+					"description": "経済経営学部経済経営学科32",
+					"category": "経済経営学部",
+					"x": "0.1270",
+					"y": "0.2217"
 				},
 				{
-					"id":"room230f",
-					"title":"230",
-					"about":"1号館2階230",
-					"description":"skyhand<br>星泳会<br>B類サッカー部<br>B類バスケットボール部",
-					"category":"運動系",
-					"x":"0.8547",
-					"y":"0.5619"
+					"id":"4-4_room203_f",
+					"title":"203",
+					"about":"1号館2階203",
+					"description":"経済経営学部経済経営学科33",
+					"category":"経済経営学部",
+					"x":"0.2195",
+					"y":"0.1781"
 				},
 				{
-					"id":"room240f",
-					"title":"240",
-					"about":"1号館2階240",
-					"description":"ESS<br>J-Boy",
-					"category":"文化系, 個性的な活動",
-					"x":"0.8547",
-					"y":"0.7330"
+					"id":"4-4_room204_f",
+					"title":"204",
+					"about":"1号館2階204",
+					"description":"経済経営学部経済経営学科34",
+					"category":"経済経営学部",
+					"x":"0.3151",
+					"y":"0.1781"
+				},
+				{
+					"id":"4-4_room205_f",
+					"title":"205",
+					"about":"1号館2階205",
+					"description":"経済経営学部経済経営学科35",
+					"category":"経済経営学部",
+					"x":"0.4136",
+					"y":"0.2217"
 				}
 			]
 		},
@@ -153,79 +127,51 @@
 			"title": "4月4日1号館1階16時～",
 			"map": "maps/class-ori/4-4_1-1_s.svg",
 			"minimap": "maps/class-ori/4-4_1-1_s.jpg",
-			"show": "true",
 			"locations": [
 				{
-					"id": "room101f",
+					"id": "4-4_room101_s",
 					"title": "101",
 					"about": "1号館1階101",
-					"description": "das Lied",
-					"category": "音楽系",
+					"description": "人文社会学部人間社会学科11",
+					"category": "人文社会学部",
 					"x": "0.1270",
 					"y": "0.4188"
 				},
 				{
-					"id": "room102f",
+					"id": "4-4_room102_s",
 					"title": "102",
 					"about": "1号館1階102",
-					"description": "デモンストレーションルーム",
-					"category": "デモンストレーションルーム",
+					"description": "人文社会学部人間社会学科12",
+					"category": "人文社会学部",
 					"x": "0.1270",
 					"y": "0.2217"
 				},
 				{
-					"id":"room103f",
+					"id":"4-4_room103_s",
 					"title":"103",
 					"about":"1号館1階103",
-					"description":"サークル紹介本部",
-					"category":"サークル紹介本部",
+					"description":"人文社会学部人間社会学科13",
+					"category":"人文社会学部",
 					"x":"0.2195",
 					"y":"0.1781"
 				},
 				{
-					"id":"room104f",
+					"id":"4-4_room104_s",
 					"title":"104",
 					"about":"1号館1階104",
-					"description":"デモンストレーションルーム",
-					"category":"デモンストレーションルーム",
+					"description":"人文社会学部人文学科14",
+					"category":"人文社会学部",
 					"x":"0.3151",
 					"y":"0.1781"
 				},
 				{
-					"id":"room105f",
+					"id":"4-4_room105_s",
 					"title":"105",
 					"about":"1号館1階105",
-					"description":"デモンストレーションルーム",
-					"category":"デモンストレーションルーム",
+					"description":"人文社会学部人文学科15",
+					"category":"人文社会学部",
 					"x":"0.4136",
 					"y":"0.2217"
-				},
-				{
-					"id":"room109f",
-					"title":"109",
-					"about":"1号館1階109",
-					"description":"デモンストレーションルーム",
-					"category":"デモンストレーションルーム",
-					"x":"0.3151",
-					"y":"0.4226"
-				},
-				{
-					"id":"room110f",
-					"title":"110",
-					"about":"1号館1階110",
-					"description":"児童文化研究会<br>生協学生委員会つむぎ",
-					"category":"ボランティア, 個性的な活動",
-					"x":"0.7147",
-					"y":"0.1724"
-				},
-				{
-					"id":"room120f",
-					"title":"120",
-					"about":"1号館1階120",
-					"description":"学術探検会<br>弓道部<br>CORE<br>女子バスケットボール部",
-					"category":"個性的な活動, 運動系, モノづくり",
-					"x":"0.8497",
-					"y":"0.5950"
 				}
 			]
 		}
