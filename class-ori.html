@@ -406,8 +406,16 @@
                         また、情報リテラシーのクラス分けと同一ですので、campus squareからも確認できます。
                     </p>
 
-                    <!--<h2 id="map">Map</h2>
-                    <p>作成中</p>-->
+                    
+                    <h2 id="map">Map</h2>
+                    <p>
+                        青くなっている教室をタップすると、対象のクラスが表示されます。
+                    </p>
+                    <section id="map-section" class="inner over">
+                        <div class="map-container">
+					    	<div id="mapplic_class-ori"></div>
+					    </div>
+                    </section>
 
 
 
@@ -450,8 +458,8 @@
     <script type="text/javascript">
         $(document).ready(function() {
             var css = '.mapplic-filtered svg [id^=landmark] > * {opacity: 1 !important; }';
-            var map = $('#mapplic').mapplic({
-                source: 'building1.json',
+            var map = $('#mapplic_class-ori').mapplic({
+                source: 'class-ori.json',
                 customcss: css,
                 sidebar: false,
                 sidebartoggle: true,
@@ -469,5 +477,6 @@
                 maxscale: 3
             });
         });
+        
     </script>
 </body>

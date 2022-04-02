@@ -25,7 +25,7 @@
 	"levels": [
 		{
 			"id": "4/6_1-2_s",
-			"title": "4月6日1号館2階16時～",
+			"title": "4/6 2F 16時～",
 			"map": "maps/class-ori/4-6_1-2_s.svg",
 			"minimap": "maps/class-ori/4-6_1-2_s.jpg",
 			"locations": [
@@ -78,7 +78,7 @@
 		},
 		{
 			"id": "4/6_1-1_s",
-			"title": "4月6日1号館1階16時～",
+			"title": "4/6 1F 16時～",
 			"map": "maps/class-ori/4-6_1-1_s.svg",
 			"minimap": "maps/class-ori/4-6_1-1_s.jpg",
 			"locations": [
@@ -141,7 +141,7 @@
 		{
 			
 			"id": "4/6_1-2_f",
-			"title": "4月6日1号館2階13時～",
+			"title": "4/6 2F 13時~",
 			"map": "maps/class-ori/4-6_1-2_f.svg",
 			"minimap": "maps/class-ori/4-6_1-2_f.jpg",
 			"locations": [
@@ -194,7 +194,7 @@
 		},
 		{
 			"id": "4/6_1-1_f",
-			"title": "4月6日1号館1階13時～",
+			"title": "4/6 1F 13時～",
 			"map": "maps/class-ori/4-6_1-1_f.svg",
 			"minimap": "maps/class-ori/4-6_1-1_f.jpg",
 			"locations": [
@@ -256,7 +256,7 @@
 		},
 		{
 			"id": "4/4_1-1_s",
-			"title": "4月4日1号館1階16時～",
+			"title": "4/4 1F 16時～",
 			"map": "maps/class-ori/4-4_1-1_s.svg",
 			"minimap": "maps/class-ori/4-4_1-1_s.jpg",
 			"locations": [
@@ -309,7 +309,7 @@
 		},
 		{
 			"id": "4/4_1-2_f",
-			"title": "4月4日1号館2階13時～",
+			"title": "4/4 2F 13時～",
 			"map": "maps/class-ori/4-4_1-2_f.svg",
 			"minimap": "maps/class-ori/4-4_1-2_f.jpg",
 			"locations": [
@@ -362,7 +362,7 @@
 		},
 		{
 			"id": "4/4_1-1_f",
-			"title": "4月4日1号館1階13時～",
+			"title": "4/4 1F 13時～",
 			"map": "maps/class-ori/4-4_1-1_f.svg",
 			"minimap": "maps/class-ori/4-4_1-1_f.jpg",
 			"show": "true",
