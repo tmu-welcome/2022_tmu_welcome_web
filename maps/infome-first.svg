@@ -4,19 +4,19 @@
     <rect id="base-2" data-name="base" y=".49" width="660" height="490" fill="#dcdddd"/>
   </g>
   <g id="MLOC-unavailable">
-    <rect id="building1" x="27.16" y=".49" width="391.05" height="154.36" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
-    <rect id="building7" x="27.16" y="377.56" width="413.78" height="112.93" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
-    <rect id="Hall" x="593.78" y=".49" width="65.73" height="89.98" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width=".97"/>
+    <rect id="infome-building1f" x="27.16" y=".49" width="391.05" height="154.36" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="infome-building7f" x="27.16" y="377.56" width="413.78" height="112.93" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="infome-hallf" x="593.78" y=".49" width="65.73" height="89.98" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width=".97"/>
   </g>
   <g id="MLOC-available">
-    <rect id="no8" x="82.25" y="281.44" width="72.08" height="80.47" transform="translate(439.97 203.39) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
-    <rect id="no7" x="197.16" y="281.44" width="72.08" height="80.47" transform="translate(554.87 88.48) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
-    <rect id="no6" x="312.06" y="281.44" width="72.08" height="80.47" transform="translate(669.78 -26.42) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
-    <rect id="no5" x="554.12" y="268.57" width="69.2" height="83.82" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
-    <rect id="no4" x="82.25" y="172.61" width="72.08" height="80.47" transform="translate(331.14 94.55) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
-    <rect id="no3" x="197.16" y="172.61" width="72.08" height="80.47" transform="translate(446.04 -20.35) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
-    <rect id="no2" x="312.06" y="172.61" width="72.08" height="80.47" transform="translate(560.94 -135.25) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
-    <rect id="no1" x="554.12" y="173.89" width="69.2" height="83.82" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no8f" x="82.25" y="281.44" width="72.08" height="80.47" transform="translate(439.97 203.39) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no7f" x="197.16" y="281.44" width="72.08" height="80.47" transform="translate(554.87 88.48) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no6f" x="312.06" y="281.44" width="72.08" height="80.47" transform="translate(669.78 -26.42) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no5f" x="554.12" y="268.57" width="69.2" height="83.82" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no4f" x="82.25" y="172.61" width="72.08" height="80.47" transform="translate(331.14 94.55) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no3f" x="197.16" y="172.61" width="72.08" height="80.47" transform="translate(446.04 -20.35) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no2f" x="312.06" y="172.61" width="72.08" height="80.47" transform="translate(560.94 -135.25) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no1f" x="554.12" y="173.89" width="69.2" height="83.82" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
   </g>
   <g id="MNOINT-word">
     <text transform="translate(205.05 93.68) scale(.96 1)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="19.43"><tspan x="0" y="0" letter-spacing=".25em">1</tspan><tspan x="18.27" y="0">号館</tspan></text>
