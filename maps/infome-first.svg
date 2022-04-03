@@ -1,53 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 714.99 520.42">
-    <g id="base">
-        <rect id="base-2" data-name="base" y="0.51" width="714.46" height="519.91" fill="#dcdddd"/>
-    </g>
-    <g id="MLOC-unavailable">
-        <rect id="infome-building1f" x="36.56" y="0.51" width="419.22" height="158.87" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="infome-building7f" x="36.56" y="388.59" width="443.59" height="116.23" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="infome-hallf" x="643.99" y="0.51" width="70.47" height="92.6" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width="1.02"/>
-    </g>
-    <g id="MLOC-available">
-        <rect id="no8f" x="97.16" y="287.95" width="74.18" height="86.27" transform="translate(465.34 196.83) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no7f" x="220.35" y="287.95" width="74.18" height="86.27" transform="translate(588.52 73.64) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no6f" x="343.53" y="287.95" width="74.18" height="86.27" transform="translate(711.7 -49.54) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no5f" x="601.48" y="276.42" width="74.18" height="86.27" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no4f" x="97.16" y="175.94" width="74.18" height="86.27" transform="translate(353.32 84.82) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no3f" x="220.35" y="175.94" width="74.18" height="86.27" transform="translate(476.51 -38.37) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no2f" x="343.53" y="175.94" width="74.18" height="86.27" transform="translate(599.69 -161.55) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-        <rect id="no1f" x="601.48" y="178.98" width="74.18" height="86.27" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    </g>
-    <g id="MNOINT-word">
-        <text transform="translate(227.27 96.42)" font-size="20" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">
-            <tspan letter-spacing="0.25em">1</tspan>
-            <tspan x="18.8" y="0">号館</tspan>
-        </text>
-        <text transform="translate(227.45 455.87)" font-size="20" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">
-            <tspan letter-spacing="0.25em">7</tspan>
-            <tspan x="18.8" y="0">号館</tspan>
-        </text>
-        <text transform="translate(661.37 64.85)" font-size="20" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N">講堂</text>
-        <text transform="translate(555.03 66.55)" font-size="20" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N">↑            <tspan x="-10" y="20">南門</tspan>
-        </text>
-        <text transform="translate(543.1 468.58)" font-size="20" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N">
-            <tspan letter-spacing="0.25em">6</tspan>
-            <tspan x="16.02" y="0">号館</tspan>
-            <tspan x="18.01" y="20">↓</tspan>
-        </text>
-        <text transform="translate(29.35 212.37)" writing-mode="tb" glyph-orientation-vertical="0deg" font-size="24" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" style="text-orientation:upright">学生ホール</text>
-        <path d="M7.44,198.5l9.22,5.36v-4H51.25v-2.68H16.66v-4Z" fill="#040000"/>
-        <polyline points="714.99 187.89 681.38 187.89 681.38 352.09 714.99 352.09" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-        <text transform="translate(695.98 217.3)" writing-mode="tb" glyph-orientation-vertical="0deg" font-size="24" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" style="text-orientation:upright">空の目門</text>
-        <text transform="translate(116.25 219.56)" font-size="12" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">アイス            <tspan x="-12" y="14">ホッケー部</tspan>
-        </text>
-        <text transform="translate(240.67 217.69)" font-size="12" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">ソフト            <tspan x="-6" y="14">テニス部</tspan>
-        </text>
-        <text transform="translate(361.07 222.25)" font-size="12" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">水泳部</text>
-        <text transform="translate(350.62 325.18)" font-size="12" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">フライング            <tspan x="0" y="14">ディスク部</tspan>
-        </text>
-        <text transform="translate(228.36 331.08)" font-size="12" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">ラグビー部</text>
-        <text transform="translate(116.25 331.08)" font-size="12" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">体操部</text>
-        <text transform="translate(621.99 220.69)" font-size="12" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">応援団</text>
-        <text transform="translate(623.01 324.26)" font-size="12" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">山岳部</text>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 490.96">
+  <g id="base">
+    <rect id="base-2" data-name="base" y=".49" width="660" height="490" fill="#dcdddd"/>
+  </g>
+  <g id="MLOC-unavailable">
+    <rect id="building1" x="27.16" y=".49" width="391.05" height="154.36" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="building7" x="27.16" y="377.56" width="413.78" height="112.93" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="Hall" x="593.78" y=".49" width="65.73" height="89.98" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width=".97"/>
+  </g>
+  <g id="MLOC-available">
+    <rect id="no8" x="82.25" y="281.44" width="72.08" height="80.47" transform="translate(439.97 203.39) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no7" x="197.16" y="281.44" width="72.08" height="80.47" transform="translate(554.87 88.48) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no6" x="312.06" y="281.44" width="72.08" height="80.47" transform="translate(669.78 -26.42) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no5" x="554.12" y="268.57" width="69.2" height="83.82" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no4" x="82.25" y="172.61" width="72.08" height="80.47" transform="translate(331.14 94.55) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no3" x="197.16" y="172.61" width="72.08" height="80.47" transform="translate(446.04 -20.35) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no2" x="312.06" y="172.61" width="72.08" height="80.47" transform="translate(560.94 -135.25) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <rect id="no1" x="554.12" y="173.89" width="69.2" height="83.82" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+  </g>
+  <g id="MNOINT-word">
+    <text transform="translate(205.05 93.68) scale(.96 1)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="19.43"><tspan x="0" y="0" letter-spacing=".25em">1</tspan><tspan x="18.27" y="0">号館</tspan></text>
+    <text transform="translate(205.23 442.93) scale(.96 1)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="19.43"><tspan x="0" y="0" letter-spacing=".25em">7</tspan><tspan x="18.27" y="0">号館</tspan></text>
+    <text transform="translate(609.99 63) scale(.96 1)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="19.43"><tspan x="0" y="0">講堂</tspan></text>
+    <text transform="translate(510.79 64.65) scale(.96 1)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="19.43"><tspan x="0" y="0">↑</tspan><tspan x="-9.72" y="19.43">南門</tspan></text>
+    <text transform="translate(499.66 455.28) scale(.96 1)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="19.43"><tspan x="0" y="0" letter-spacing=".25em">6</tspan><tspan x="15.57" y="0">号館</tspan><tspan x="17.5" y="19.43">↓</tspan></text>
+    <text transform="translate(20.43 206.34) scale(1 1.04)" fill="#231815" font-family="HiraginoSans-W4-83pv-RKSJ-H, Hiragino Sans" font-size="22.39" glyph-orientation-vertical="0deg" text-orientation="upright" writing-mode="tb"><tspan x="0" y="0">学生ホール</tspan></text>
+    <path d="M0,192.86l8.6,5.21v-3.91H40.86v-2.6H8.6v-3.91l-8.6,5.21Z" fill="#040000"/>
+    <polyline points="660 182.55 628.64 182.55 628.64 342.09 660 342.09" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width=".95"/>
+    <text transform="translate(642.27 211.12) scale(1 1.04)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="22.39" glyph-orientation-vertical="0deg" text-orientation="upright" writing-mode="tb"><tspan x="0" y="0">空の目門</tspan></text>
+    <text transform="translate(101.5 213.32) scale(.96 1)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="11.66"><tspan x="0" y="0">アイス</tspan><tspan x="-11.66" y="13.6">ホッケー部</tspan></text>
+    <text transform="translate(217.55 211.5) scale(.96 1)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="11.66"><tspan x="0" y="0">ソフト</tspan><tspan x="-5.83" y="13.6">テニス部</tspan></text>
+    <text transform="translate(329.86 215.94) scale(.96 1)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="11.66"><tspan x="0" y="0">水泳部</tspan></text>
+    <text transform="translate(320.12 315.95) scale(.96 1)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="11.66"><tspan x="0" y="0">フライング</tspan><tspan x="0" y="13.6">ディスク部</tspan></text>
+    <text transform="translate(206.07 321.68) scale(.96 1)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="11.66"><tspan x="0" y="0">ラグビー部</tspan></text>
+    <text transform="translate(101.5 321.68) scale(.96 1)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="11.66"><tspan x="0" y="0">体操部</tspan></text>
+    <text transform="translate(573.25 214.42) scale(.96 1)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="11.66"><tspan x="0" y="0">応援団</tspan></text>
+    <text transform="translate(574.21 315.06) scale(.96 1)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="11.66"><tspan x="0" y="0">山岳部</tspan></text>
+  </g>
 </svg>
