@@ -24,7 +24,7 @@ $(document).ready(function() {
 		sidebartoggle: true,
 		alphabetic: true,
 		height: 'auto',
-		developer: true,
+		developer: false,
 		searchdescription: true,
 		searcheverywhere: true,
 		animations: true,
