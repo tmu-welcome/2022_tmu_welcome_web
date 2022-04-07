@@ -4,9 +4,9 @@
     <rect id="base-2" data-name="base" y=".51" width="714.46" height="519.91" fill="#dcdddd"/>
   </g>
   <g id="MLOC-unavailable">
-    <rect id="building1s" x="36.56" y=".51" width="419.22" height="158.87" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="building7s" x="36.56" y="388.59" width="443.59" height="116.23" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="halls" x="643.99" y=".51" width="70.47" height="92.6" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width="1.02"/>
+    <rect id="infome-building1s" x="36.56" y=".51" width="419.22" height="158.87" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="infome-building7s" x="36.56" y="388.59" width="443.59" height="116.23" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="infome-halls" x="643.99" y=".51" width="70.47" height="92.6" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width="1.02"/>
   </g>
   <g id="MLOC-available">
     <rect id="no8s" x="59.01" y="294.65" width="65.95" height="81.47" transform="translate(427.37 243.4) rotate(90)" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10" stroke-width=".92"/>
