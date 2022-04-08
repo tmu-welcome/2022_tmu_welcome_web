@@ -472,8 +472,43 @@
 			]
 		},
 		{
+			"id":"gakuhall1f-second",
+			"title":"学生ホール1階",
+			"map":"maps/gakuhall1F.svg",
+			"minimap":"maps/gakuhall1F.jpg",
+			"locations":[
+				{
+					"id":"park1f",
+					"title":"生協前広場",
+					"about":"学生ホール生協前広場",
+					"description":"10:30~12:00 応援団<br>12:00~14:15 吹奏楽団<br>14:15~14:45 WILD BOARS<br>14:45~16:30 軽音楽部・フォークソング研究会",
+					"category":"パフォーマンス",
+					"x":"0.3556",
+					"y":"0.3989"
+				},
+				{
+					"id":"shop",
+					"title":"生協購買",
+					"about":"生協購買",
+					"description":"11時~14時まで営業",
+					"category":"生協",
+					"x":"0.8285",
+					"y":"0.4913"
+				},
+				{
+					"id":"cafeteria",
+					"title":"生協食堂",
+					"about":"生協食堂",
+					"description":"12時~14時まで食事場所として開放",
+					"category":"生協",
+					"x":"0.1002",
+					"y":"0.4576"
+				}
+			]
+		},
+		{
 			"id":"gakuhall-second",
-			"title":"学生ホール後半",
+			"title":"学生ホール2階後半",
 			"map":"maps/gakuhall-second.svg",
 			"minimap":"maps/gakuhall-second.jpg",
 			"locations":[
