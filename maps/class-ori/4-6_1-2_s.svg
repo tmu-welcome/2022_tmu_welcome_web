@@ -47,7 +47,7 @@
     <polygon points="621.09 411.9 584.29 411.82 584.29 451.11 621.09 451.11 621.09 411.9" fill="#f19899" stroke="#283331" stroke-miterlimit="10"/>
   </g>
   <g id="_用不可能教室等" data-name="使用不可能教室等">
-    <rect x="243.08" y="66.82" width="63.67" height="76.53" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect x="179.41" y="177.67" width="63.67" height="68.45" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
     <rect x="306.75" y="66.82" width="63.67" height="76.53" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
     <rect x="243.08" y="164.02" width="81.9" height="74.19" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
     <rect x="324.98" y="164.02" width="32.65" height="74.19" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
@@ -189,7 +189,7 @@
     <rect id="4-6_room202_s" x="57.29" y="66.82" width="58.44" height="79.04" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
     <rect id="4-6_room203_s" x="115.74" y="51.27" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
     <rect id="4-6_room204_s" x="179.41" y="51.27" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="4-6_room209_s" x="179.41" y="177.67" width="63.67" height="68.45" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room205_s" x="243.08" y="66.82" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
   </g>
   <g id="MNOINT-word">
     <text transform="translate(551.67 124.8)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">EV</tspan></text>
